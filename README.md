@@ -62,6 +62,5 @@ The final results and observations are presented through graphs and statistical 
 
 ## Author
 
-**Nithya Kalyani**
+** Y Nithya Kalyani**
 
-B.Tech Student**
